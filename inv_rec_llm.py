@@ -11,8 +11,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Set up Google Gemini API
-# GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
-GOOGLE_API_KEY = "AIzaSyDFXWld_m2z9pwDYHPMw3_wlM63NzB0lOE"
+GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
 genai.configure(api_key=GOOGLE_API_KEY)
 
 def get_rec(data, product, month):
