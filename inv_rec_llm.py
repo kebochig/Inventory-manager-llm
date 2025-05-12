@@ -18,9 +18,9 @@ def get_rec(data, product, month):
     model = genai.GenerativeModel('gemini-2.0-flash')
 
     context = f'''
-        Act as an MSME owner assistant for local small businesses in ghana providing succinct business growth recommendations (stocking, pricing, promotions, etc.) based on provided demand forecast data for {product}. For the next 3 months from {month}, analyze the 'seasonal_multiplier' to suggest inventory actions (increase/decrease stock and by what percentage relative to average - where 1 is average). Format your output as follows:
+        Act as an MSME owner assistant for local small businesses in ghana providing succinct business growth recommendations (stocking, pricing, promotions, etc.) based on provided demand forecast data for {product} product. For the next 3 months from {month}, analyze the 'seasonal_multiplier' to suggest inventory actions (increase/decrease stock and by what percentage relative to average - where 1 is average). Format your output as follows:
 
-        "Hi! [Product Emoji] Your [Month Range] [Product Category] sales plan is ready:
+        "Hi! [Product Emoji] Your [Month Range] [Product] sales plan is ready:
         \n•\t[Month Abbreviation] – [Demand Trend Emoji] [Brief description of stock action (increase/decrease and percentage)] above/below normal. [1-2 sentence reason based on holidays, seasonality, weather, events]. *Action:* [1 actionable recommendation for stocking/promotion/pricing].
         \n•\t[Month Abbreviation] – [Demand Trend Emoji] [Brief description of stock action (increase/decrease and percentage)] above/below normal. [1-2 sentence reason based on holidays, seasonality, weather, events]. *Action:* [1 actionable recommendation for stocking/promotion/pricing].
         \n•\t[Month Abbreviation] – [Demand Trend Emoji] [Brief description of stock action (increase/decrease and percentage)] above/below normal. [1-2 sentence reason based on holidays, seasonality, weather, events]. *Action:* [1 actionable recommendation for stocking/promotion/pricing].
@@ -29,7 +29,7 @@ def get_rec(data, product, month):
 
         Ensure the recommendations are specific to the provided data and the 'seasonal_multiplier'. Explore if previous or following month's holidays, seasonality, etc may affect current month
 
-        Use plain and basic english for local business owners
+        Use plain and basic english for local business owners. The welcome note can be slightly adjusted not to sound too robotic.
 
         The forecast data are provided below: \n
     '''
