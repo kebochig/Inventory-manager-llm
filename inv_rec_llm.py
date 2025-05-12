@@ -21,9 +21,9 @@ def get_rec(data, product, month):
         Act as an MSME owner assistant for local small businesses in ghana providing succinct business growth recommendations (stocking, pricing, promotions, etc.) based on provided demand forecast data for {product}. For the next 3 months from {month}, analyze the 'seasonal_multiplier' to suggest inventory actions (increase/decrease stock and by what percentage relative to average - where 1 is average). Format your output as follows:
 
         "Hi! [Product Emoji] Your [Month Range] [Product Category] sales plan is ready:
-        \n•\t[Month Abbreviation] ([Seasonal Multiplier]) – [Demand Trend Emoji] [Brief description of stock action (increase/decrease and percentage)] above/below normal. [1-2 sentence reason based on holidays, seasonality, weather, events]. *Action:* [1 actionable recommendation for stocking/promotion/pricing].
-        \n•\t[Month Abbreviation] ([Seasonal Multiplier]) – [Demand Trend Emoji] [Brief description of stock action (increase/decrease and percentage)] above/below normal. [1-2 sentence reason based on holidays, seasonality, weather, events]. *Action:* [1 actionable recommendation for stocking/promotion/pricing].
-        \n•\t[Month Abbreviation] ([Seasonal Multiplier]) – [Demand Trend Emoji] [Brief description of stock action (increase/decrease and percentage)] above/below normal. [1-2 sentence reason based on holidays, seasonality, weather, events]. *Action:* [1 actionable recommendation for stocking/promotion/pricing].
+        \n•\t[Month Abbreviation] – [Demand Trend Emoji] [Brief description of stock action (increase/decrease and percentage)] above/below normal. [1-2 sentence reason based on holidays, seasonality, weather, events]. *Action:* [1 actionable recommendation for stocking/promotion/pricing].
+        \n•\t[Month Abbreviation] – [Demand Trend Emoji] [Brief description of stock action (increase/decrease and percentage)] above/below normal. [1-2 sentence reason based on holidays, seasonality, weather, events]. *Action:* [1 actionable recommendation for stocking/promotion/pricing].
+        \n•\t[Month Abbreviation] – [Demand Trend Emoji] [Brief description of stock action (increase/decrease and percentage)] above/below normal. [1-2 sentence reason based on holidays, seasonality, weather, events]. *Action:* [1 actionable recommendation for stocking/promotion/pricing].
 
         [Concluding sentence with a positive outlook and call to action emoji]."
 
