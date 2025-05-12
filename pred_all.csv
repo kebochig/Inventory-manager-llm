@@ -1,0 +1,481 @@
+date,region,prod_code,product_category,demand_MT,seasonal_multiplier,holidays,weather,back_to_school,tourism_count
+2022-01-01,Western,1006,Rice,43110.31,2.553473586161184,"[""New Year's Day"", 'Constitution Day']",Harmattan (Dry),1,0
+2022-02-01,Western,1006,Rice,2605.46,0.6277440214384871,Valentine's Day,Harmattan (Dry),0,1
+2022-03-01,Western,1006,Rice,1572.58,0.4876938410253,"['Independence Day', 'Ramadan']",Hot/Dry Season,0,3
+2022-04-01,Western,1006,Rice,8630.6,1.1425136574080637,Easter,Major Rainy Season,0,1
+2022-05-01,Western,1006,Rice,6995.09,1.028578517729181,May Day,Major Rainy Season,1,1
+2022-06-01,Western,1006,Rice,1729.14,0.5113949170204048,Eid ul-Adha,Major Rainy Season,0,0
+2022-07-01,Western,1006,Rice,7197.14,1.043327891233129,Republic Day,Major Rainy Season,0,0
+2022-08-01,Western,1006,Rice,1119.79,0.4115364751022527,Founders' Day,Major Rainy Season,0,0
+2022-09-01,Western,1006,Rice,4709.4,0.8439631461790259,Kwame Nkrumah Memorial Day,Minor Rainy Season,1,8
+2022-10-01,Western,1006,Rice,7546.42,1.0683440638461994,,Minor Rainy Season,0,0
+2022-11-01,Western,1006,Rice,2353.68,0.5966429055353216,,Minor Rainy Season,0,0
+2022-12-01,Western,1006,Rice,18767.59,1.6847869773214497,"[""Farmer's Day"", 'Christmas']",Harmattan (Dry),0,9
+2022-01-01,Central,1006,Rice,19410.21,2.553473586161184,"[""New Year's Day"", 'Constitution Day']",Harmattan (Dry),1,0
+2022-02-01,Central,1006,Rice,1173.09,0.6277440214384871,Valentine's Day,Harmattan (Dry),0,1
+2022-03-01,Central,1006,Rice,708.05,0.4876938410253,"['Independence Day', 'Ramadan']",Hot/Dry Season,0,3
+2022-04-01,Central,1006,Rice,3885.89,1.1425136574080637,Easter,Major Rainy Season,0,1
+2022-05-01,Central,1006,Rice,3149.51,1.028578517729181,May Day,Major Rainy Season,1,1
+2022-06-01,Central,1006,Rice,778.54,0.5113949170204048,Eid ul-Adha,Major Rainy Season,0,0
+2022-07-01,Central,1006,Rice,3240.48,1.043327891233129,Republic Day,Major Rainy Season,0,0
+2022-08-01,Central,1006,Rice,504.18,0.4115364751022527,Founders' Day,Major Rainy Season,0,0
+2022-09-01,Central,1006,Rice,2120.38,0.8439631461790259,Kwame Nkrumah Memorial Day,Minor Rainy Season,1,8
+2022-10-01,Central,1006,Rice,3397.74,1.0683440638461994,,Minor Rainy Season,0,0
+2022-11-01,Central,1006,Rice,1059.73,0.5966429055353216,,Minor Rainy Season,0,0
+2022-12-01,Central,1006,Rice,8450.02,1.6847869773214497,"[""Farmer's Day"", 'Christmas']",Harmattan (Dry),0,9
+2022-01-01,Greater Accra,1006,Rice,36571.96,2.553473586161184,"[""New Year's Day"", 'Constitution Day']",Harmattan (Dry),1,0
+2022-02-01,Greater Accra,1006,Rice,2210.3,0.6277440214384871,Valentine's Day,Harmattan (Dry),0,1
+2022-03-01,Greater Accra,1006,Rice,1334.07,0.4876938410253,"['Independence Day', 'Ramadan']",Hot/Dry Season,0,3
+2022-04-01,Greater Accra,1006,Rice,7321.64,1.1425136574080637,Easter,Major Rainy Season,0,1
+2022-05-01,Greater Accra,1006,Rice,5934.18,1.028578517729181,May Day,Major Rainy Season,1,1
+2022-06-01,Greater Accra,1006,Rice,1466.89,0.5113949170204048,Eid ul-Adha,Major Rainy Season,0,0
+2022-07-01,Greater Accra,1006,Rice,6105.58,1.043327891233129,Republic Day,Major Rainy Season,0,0
+2022-08-01,Greater Accra,1006,Rice,949.95,0.4115364751022527,Founders' Day,Major Rainy Season,0,0
+2022-09-01,Greater Accra,1006,Rice,3995.14,0.8439631461790259,Kwame Nkrumah Memorial Day,Minor Rainy Season,1,8
+2022-10-01,Greater Accra,1006,Rice,6401.88,1.0683440638461994,,Minor Rainy Season,0,0
+2022-11-01,Greater Accra,1006,Rice,1996.71,0.5966429055353216,,Minor Rainy Season,0,0
+2022-12-01,Greater Accra,1006,Rice,15921.19,1.6847869773214497,"[""Farmer's Day"", 'Christmas']",Harmattan (Dry),0,9
+2022-01-01,Volta,1006,Rice,37327.04,2.553473586161184,"[""New Year's Day"", 'Constitution Day']",Harmattan (Dry),1,0
+2022-02-01,Volta,1006,Rice,2255.93,0.6277440214384871,Valentine's Day,Harmattan (Dry),0,1
+2022-03-01,Volta,1006,Rice,1361.62,0.4876938410253,"['Independence Day', 'Ramadan']",Hot/Dry Season,0,3
+2022-04-01,Volta,1006,Rice,7472.8,1.1425136574080637,Easter,Major Rainy Season,0,1
+2022-05-01,Volta,1006,Rice,6056.7,1.028578517729181,May Day,Major Rainy Season,1,1
+2022-06-01,Volta,1006,Rice,1497.18,0.5113949170204048,Eid ul-Adha,Major Rainy Season,0,0
+2022-07-01,Volta,1006,Rice,6231.64,1.043327891233129,Republic Day,Major Rainy Season,0,0
+2022-08-01,Volta,1006,Rice,969.57,0.4115364751022527,Founders' Day,Major Rainy Season,0,0
+2022-09-01,Volta,1006,Rice,4077.63,0.8439631461790259,Kwame Nkrumah Memorial Day,Minor Rainy Season,1,8
+2022-10-01,Volta,1006,Rice,6534.06,1.0683440638461994,,Minor Rainy Season,0,0
+2022-11-01,Volta,1006,Rice,2037.93,0.5966429055353216,,Minor Rainy Season,0,0
+2022-12-01,Volta,1006,Rice,16249.91,1.6847869773214497,"[""Farmer's Day"", 'Christmas']",Harmattan (Dry),0,9
+2022-01-01,Eastern,1006,Rice,42695.91,2.553473586161184,"[""New Year's Day"", 'Constitution Day']",Harmattan (Dry),1,0
+2022-02-01,Eastern,1006,Rice,2580.41,0.6277440214384871,Valentine's Day,Harmattan (Dry),0,1
+2022-03-01,Eastern,1006,Rice,1557.46,0.4876938410253,"['Independence Day', 'Ramadan']",Hot/Dry Season,0,3
+2022-04-01,Eastern,1006,Rice,8547.64,1.1425136574080637,Easter,Major Rainy Season,0,1
+2022-05-01,Eastern,1006,Rice,6927.85,1.028578517729181,May Day,Major Rainy Season,1,1
+2022-06-01,Eastern,1006,Rice,1712.52,0.5113949170204048,Eid ul-Adha,Major Rainy Season,0,0
+2022-07-01,Eastern,1006,Rice,7127.96,1.043327891233129,Republic Day,Major Rainy Season,0,0
+2022-08-01,Eastern,1006,Rice,1109.02,0.4115364751022527,Founders' Day,Major Rainy Season,0,0
+2022-09-01,Eastern,1006,Rice,4664.13,0.8439631461790259,Kwame Nkrumah Memorial Day,Minor Rainy Season,1,8
+2022-10-01,Eastern,1006,Rice,7473.87,1.0683440638461994,,Minor Rainy Season,0,0
+2022-11-01,Eastern,1006,Rice,2331.05,0.5966429055353216,,Minor Rainy Season,0,0
+2022-12-01,Eastern,1006,Rice,18587.18,1.6847869773214497,"[""Farmer's Day"", 'Christmas']",Harmattan (Dry),0,9
+2022-01-01,Ashanti,1006,Rice,93046.14,2.553473586161184,"[""New Year's Day"", 'Constitution Day']",Harmattan (Dry),1,0
+2022-02-01,Ashanti,1006,Rice,5623.42,0.6277440214384871,Valentine's Day,Harmattan (Dry),0,1
+2022-03-01,Ashanti,1006,Rice,3394.14,0.4876938410253,"['Independence Day', 'Ramadan']",Hot/Dry Season,0,3
+2022-04-01,Ashanti,1006,Rice,18627.67,1.1425136574080637,Easter,Major Rainy Season,0,1
+2022-05-01,Ashanti,1006,Rice,15097.69,1.028578517729181,May Day,Major Rainy Season,1,1
+2022-06-01,Ashanti,1006,Rice,3732.06,0.5113949170204048,Eid ul-Adha,Major Rainy Season,0,0
+2022-07-01,Ashanti,1006,Rice,15533.78,1.043327891233129,Republic Day,Major Rainy Season,0,0
+2022-08-01,Ashanti,1006,Rice,2416.86,0.4115364751022527,Founders' Day,Major Rainy Season,0,0
+2022-09-01,Ashanti,1006,Rice,10164.42,0.8439631461790259,Kwame Nkrumah Memorial Day,Minor Rainy Season,1,8
+2022-10-01,Ashanti,1006,Rice,16287.63,1.0683440638461994,,Minor Rainy Season,0,0
+2022-11-01,Ashanti,1006,Rice,5080.01,0.5966429055353216,,Minor Rainy Season,0,0
+2022-12-01,Ashanti,1006,Rice,40506.58,1.6847869773214497,"[""Farmer's Day"", 'Christmas']",Harmattan (Dry),0,9
+2022-01-01,Brong Ahafo,1006,Rice,41200.35,2.553473586161184,"[""New Year's Day"", 'Constitution Day']",Harmattan (Dry),1,0
+2022-02-01,Brong Ahafo,1006,Rice,2490.02,0.6277440214384871,Valentine's Day,Harmattan (Dry),0,1
+2022-03-01,Brong Ahafo,1006,Rice,1502.91,0.4876938410253,"['Independence Day', 'Ramadan']",Hot/Dry Season,0,3
+2022-04-01,Brong Ahafo,1006,Rice,8248.23,1.1425136574080637,Easter,Major Rainy Season,0,1
+2022-05-01,Brong Ahafo,1006,Rice,6685.18,1.028578517729181,May Day,Major Rainy Season,1,1
+2022-06-01,Brong Ahafo,1006,Rice,1652.54,0.5113949170204048,Eid ul-Adha,Major Rainy Season,0,0
+2022-07-01,Brong Ahafo,1006,Rice,6878.28,1.043327891233129,Republic Day,Major Rainy Season,0,0
+2022-08-01,Brong Ahafo,1006,Rice,1070.18,0.4115364751022527,Founders' Day,Major Rainy Season,0,0
+2022-09-01,Brong Ahafo,1006,Rice,4500.75,0.8439631461790259,Kwame Nkrumah Memorial Day,Minor Rainy Season,1,8
+2022-10-01,Brong Ahafo,1006,Rice,7212.08,1.0683440638461994,,Minor Rainy Season,0,0
+2022-11-01,Brong Ahafo,1006,Rice,2249.4,0.5966429055353216,,Minor Rainy Season,0,0
+2022-12-01,Brong Ahafo,1006,Rice,17936.11,1.6847869773214497,"[""Farmer's Day"", 'Christmas']",Harmattan (Dry),0,9
+2022-01-01,Northern,1006,Rice,42549.85,2.553473586161184,"[""New Year's Day"", 'Constitution Day']",Harmattan (Dry),1,0
+2022-02-01,Northern,1006,Rice,2571.58,0.6277440214384871,Valentine's Day,Harmattan (Dry),0,1
+2022-03-01,Northern,1006,Rice,1552.14,0.4876938410253,"['Independence Day', 'Ramadan']",Hot/Dry Season,0,3
+2022-04-01,Northern,1006,Rice,8518.4,1.1425136574080637,Easter,Major Rainy Season,0,1
+2022-05-01,Northern,1006,Rice,6904.15,1.028578517729181,May Day,Major Rainy Season,1,1
+2022-06-01,Northern,1006,Rice,1706.66,0.5113949170204048,Eid ul-Adha,Major Rainy Season,0,0
+2022-07-01,Northern,1006,Rice,7103.57,1.043327891233129,Republic Day,Major Rainy Season,0,0
+2022-08-01,Northern,1006,Rice,1105.23,0.4115364751022527,Founders' Day,Major Rainy Season,0,0
+2022-09-01,Northern,1006,Rice,4648.17,0.8439631461790259,Kwame Nkrumah Memorial Day,Minor Rainy Season,1,8
+2022-10-01,Northern,1006,Rice,7448.31,1.0683440638461994,,Minor Rainy Season,0,0
+2022-11-01,Northern,1006,Rice,2323.08,0.5966429055353216,,Minor Rainy Season,0,0
+2022-12-01,Northern,1006,Rice,18523.6,1.6847869773214497,"[""Farmer's Day"", 'Christmas']",Harmattan (Dry),0,9
+2022-01-01,Upper East,1006,Rice,12136.41,2.553473586161184,"[""New Year's Day"", 'Constitution Day']",Harmattan (Dry),1,0
+2022-02-01,Upper East,1006,Rice,733.49,0.6277440214384871,Valentine's Day,Harmattan (Dry),0,1
+2022-03-01,Upper East,1006,Rice,442.71,0.4876938410253,"['Independence Day', 'Ramadan']",Hot/Dry Season,0,3
+2022-04-01,Upper East,1006,Rice,2429.69,1.1425136574080637,Easter,Major Rainy Season,0,1
+2022-05-01,Upper East,1006,Rice,1969.26,1.028578517729181,May Day,Major Rainy Season,1,1
+2022-06-01,Upper East,1006,Rice,486.79,0.5113949170204048,Eid ul-Adha,Major Rainy Season,0,0
+2022-07-01,Upper East,1006,Rice,2026.14,1.043327891233129,Republic Day,Major Rainy Season,0,0
+2022-08-01,Upper East,1006,Rice,315.24,0.4115364751022527,Founders' Day,Major Rainy Season,0,0
+2022-09-01,Upper East,1006,Rice,1325.79,0.8439631461790259,Kwame Nkrumah Memorial Day,Minor Rainy Season,1,8
+2022-10-01,Upper East,1006,Rice,2124.47,1.0683440638461994,,Minor Rainy Season,0,0
+2022-11-01,Upper East,1006,Rice,662.61,0.5966429055353216,,Minor Rainy Season,0,0
+2022-12-01,Upper East,1006,Rice,5283.45,1.6847869773214497,"[""Farmer's Day"", 'Christmas']",Harmattan (Dry),0,9
+2022-01-01,Upper West,1006,Rice,8472.21,2.553473586161184,"[""New Year's Day"", 'Constitution Day']",Harmattan (Dry),1,0
+2022-02-01,Upper West,1006,Rice,512.03,0.6277440214384871,Valentine's Day,Harmattan (Dry),0,1
+2022-03-01,Upper West,1006,Rice,309.05,0.4876938410253,"['Independence Day', 'Ramadan']",Hot/Dry Season,0,3
+2022-04-01,Upper West,1006,Rice,1696.12,1.1425136574080637,Easter,Major Rainy Season,0,1
+2022-05-01,Upper West,1006,Rice,1374.7,1.028578517729181,May Day,Major Rainy Season,1,1
+2022-06-01,Upper West,1006,Rice,339.82,0.5113949170204048,Eid ul-Adha,Major Rainy Season,0,0
+2022-07-01,Upper West,1006,Rice,1414.41,1.043327891233129,Republic Day,Major Rainy Season,0,0
+2022-08-01,Upper West,1006,Rice,220.06,0.4115364751022527,Founders' Day,Major Rainy Season,0,0
+2022-09-01,Upper West,1006,Rice,925.51,0.8439631461790259,Kwame Nkrumah Memorial Day,Minor Rainy Season,1,8
+2022-10-01,Upper West,1006,Rice,1483.05,1.0683440638461994,,Minor Rainy Season,0,0
+2022-11-01,Upper West,1006,Rice,462.55,0.5966429055353216,,Minor Rainy Season,0,0
+2022-12-01,Upper West,1006,Rice,3688.28,1.6847869773214497,"[""Farmer's Day"", 'Christmas']",Harmattan (Dry),0,9
+2022-01-01,Western,402,"Milk and cream, concentrated or sweetened",1189.0,0.8901254806302046,"[""New Year's Day"", 'Constitution Day']",Harmattan (Dry),1,0
+2022-02-01,Western,402,"Milk and cream, concentrated or sweetened",2752.76,1.3543959893521065,Valentine's Day,Harmattan (Dry),0,1
+2022-03-01,Western,402,"Milk and cream, concentrated or sweetened",785.65,0.7235607732312193,"['Independence Day', 'Ramadan']",Hot/Dry Season,0,3
+2022-04-01,Western,402,"Milk and cream, concentrated or sweetened",872.01,0.7622917261607656,Easter,Major Rainy Season,0,1
+2022-05-01,Western,402,"Milk and cream, concentrated or sweetened",1895.68,1.1239423138228877,May Day,Major Rainy Season,1,1
+2022-06-01,Western,402,"Milk and cream, concentrated or sweetened",2869.41,1.382795032551498,Eid ul-Adha,Major Rainy Season,0,0
+2022-07-01,Western,402,"Milk and cream, concentrated or sweetened",3123.39,1.4426931801295695,Republic Day,Major Rainy Season,0,0
+2022-08-01,Western,402,"Milk and cream, concentrated or sweetened",2211.8,1.2140437504315862,Founders' Day,Major Rainy Season,0,0
+2022-09-01,Western,402,"Milk and cream, concentrated or sweetened",2930.51,1.3974393287924975,Kwame Nkrumah Memorial Day,Minor Rainy Season,1,8
+2022-10-01,Western,402,"Milk and cream, concentrated or sweetened",724.63,0.6948948454930051,,Minor Rainy Season,0,0
+2022-11-01,Western,402,"Milk and cream, concentrated or sweetened",479.09,0.5650305446459908,,Minor Rainy Season,0,0
+2022-12-01,Western,402,"Milk and cream, concentrated or sweetened",302.24,0.44878703475867043,"[""Farmer's Day"", 'Christmas']",Harmattan (Dry),0,9
+2022-01-01,Central,402,"Milk and cream, concentrated or sweetened",535.34,0.8901254806302046,"[""New Year's Day"", 'Constitution Day']",Harmattan (Dry),1,0
+2022-02-01,Central,402,"Milk and cream, concentrated or sweetened",1239.42,1.3543959893521065,Valentine's Day,Harmattan (Dry),0,1
+2022-03-01,Central,402,"Milk and cream, concentrated or sweetened",353.73,0.7235607732312193,"['Independence Day', 'Ramadan']",Hot/Dry Season,0,3
+2022-04-01,Central,402,"Milk and cream, concentrated or sweetened",392.62,0.7622917261607656,Easter,Major Rainy Season,0,1
+2022-05-01,Central,402,"Milk and cream, concentrated or sweetened",853.52,1.1239423138228877,May Day,Major Rainy Season,1,1
+2022-06-01,Central,402,"Milk and cream, concentrated or sweetened",1291.94,1.382795032551498,Eid ul-Adha,Major Rainy Season,0,0
+2022-07-01,Central,402,"Milk and cream, concentrated or sweetened",1406.29,1.4426931801295695,Republic Day,Major Rainy Season,0,0
+2022-08-01,Central,402,"Milk and cream, concentrated or sweetened",995.85,1.2140437504315862,Founders' Day,Major Rainy Season,0,0
+2022-09-01,Central,402,"Milk and cream, concentrated or sweetened",1319.45,1.3974393287924975,Kwame Nkrumah Memorial Day,Minor Rainy Season,1,8
+2022-10-01,Central,402,"Milk and cream, concentrated or sweetened",326.26,0.6948948454930051,,Minor Rainy Season,0,0
+2022-11-01,Central,402,"Milk and cream, concentrated or sweetened",215.71,0.5650305446459908,,Minor Rainy Season,0,0
+2022-12-01,Central,402,"Milk and cream, concentrated or sweetened",136.08,0.44878703475867043,"[""Farmer's Day"", 'Christmas']",Harmattan (Dry),0,9
+2022-01-01,Greater Accra,402,"Milk and cream, concentrated or sweetened",1008.67,0.8901254806302046,"[""New Year's Day"", 'Constitution Day']",Harmattan (Dry),1,0
+2022-02-01,Greater Accra,402,"Milk and cream, concentrated or sweetened",2335.26,1.3543959893521065,Valentine's Day,Harmattan (Dry),0,1
+2022-03-01,Greater Accra,402,"Milk and cream, concentrated or sweetened",666.49,0.7235607732312193,"['Independence Day', 'Ramadan']",Hot/Dry Season,0,3
+2022-04-01,Greater Accra,402,"Milk and cream, concentrated or sweetened",739.75,0.7622917261607656,Easter,Major Rainy Season,0,1
+2022-05-01,Greater Accra,402,"Milk and cream, concentrated or sweetened",1608.17,1.1239423138228877,May Day,Major Rainy Season,1,1
+2022-06-01,Greater Accra,402,"Milk and cream, concentrated or sweetened",2434.22,1.382795032551498,Eid ul-Adha,Major Rainy Season,0,0
+2022-07-01,Greater Accra,402,"Milk and cream, concentrated or sweetened",2649.67,1.4426931801295695,Republic Day,Major Rainy Season,0,0
+2022-08-01,Greater Accra,402,"Milk and cream, concentrated or sweetened",1876.35,1.2140437504315862,Founders' Day,Major Rainy Season,0,0
+2022-09-01,Greater Accra,402,"Milk and cream, concentrated or sweetened",2486.05,1.3974393287924975,Kwame Nkrumah Memorial Day,Minor Rainy Season,1,8
+2022-10-01,Greater Accra,402,"Milk and cream, concentrated or sweetened",614.73,0.6948948454930051,,Minor Rainy Season,0,0
+2022-11-01,Greater Accra,402,"Milk and cream, concentrated or sweetened",406.43,0.5650305446459908,,Minor Rainy Season,0,0
+2022-12-01,Greater Accra,402,"Milk and cream, concentrated or sweetened",256.4,0.44878703475867043,"[""Farmer's Day"", 'Christmas']",Harmattan (Dry),0,9
+2022-01-01,Volta,402,"Milk and cream, concentrated or sweetened",1029.49,0.8901254806302046,"[""New Year's Day"", 'Constitution Day']",Harmattan (Dry),1,0
+2022-02-01,Volta,402,"Milk and cream, concentrated or sweetened",2383.48,1.3543959893521065,Valentine's Day,Harmattan (Dry),0,1
+2022-03-01,Volta,402,"Milk and cream, concentrated or sweetened",680.25,0.7235607732312193,"['Independence Day', 'Ramadan']",Hot/Dry Season,0,3
+2022-04-01,Volta,402,"Milk and cream, concentrated or sweetened",755.03,0.7622917261607656,Easter,Major Rainy Season,0,1
+2022-05-01,Volta,402,"Milk and cream, concentrated or sweetened",1641.38,1.1239423138228877,May Day,Major Rainy Season,1,1
+2022-06-01,Volta,402,"Milk and cream, concentrated or sweetened",2484.48,1.382795032551498,Eid ul-Adha,Major Rainy Season,0,0
+2022-07-01,Volta,402,"Milk and cream, concentrated or sweetened",2704.38,1.4426931801295695,Republic Day,Major Rainy Season,0,0
+2022-08-01,Volta,402,"Milk and cream, concentrated or sweetened",1915.09,1.2140437504315862,Founders' Day,Major Rainy Season,0,0
+2022-09-01,Volta,402,"Milk and cream, concentrated or sweetened",2537.38,1.3974393287924975,Kwame Nkrumah Memorial Day,Minor Rainy Season,1,8
+2022-10-01,Volta,402,"Milk and cream, concentrated or sweetened",627.42,0.6948948454930051,,Minor Rainy Season,0,0
+2022-11-01,Volta,402,"Milk and cream, concentrated or sweetened",414.82,0.5650305446459908,,Minor Rainy Season,0,0
+2022-12-01,Volta,402,"Milk and cream, concentrated or sweetened",261.7,0.44878703475867043,"[""Farmer's Day"", 'Christmas']",Harmattan (Dry),0,9
+2022-01-01,Eastern,402,"Milk and cream, concentrated or sweetened",1177.57,0.8901254806302046,"[""New Year's Day"", 'Constitution Day']",Harmattan (Dry),1,0
+2022-02-01,Eastern,402,"Milk and cream, concentrated or sweetened",2726.3,1.3543959893521065,Valentine's Day,Harmattan (Dry),0,1
+2022-03-01,Eastern,402,"Milk and cream, concentrated or sweetened",778.1,0.7235607732312193,"['Independence Day', 'Ramadan']",Hot/Dry Season,0,3
+2022-04-01,Eastern,402,"Milk and cream, concentrated or sweetened",863.62,0.7622917261607656,Easter,Major Rainy Season,0,1
+2022-05-01,Eastern,402,"Milk and cream, concentrated or sweetened",1877.46,1.1239423138228877,May Day,Major Rainy Season,1,1
+2022-06-01,Eastern,402,"Milk and cream, concentrated or sweetened",2841.83,1.382795032551498,Eid ul-Adha,Major Rainy Season,0,0
+2022-07-01,Eastern,402,"Milk and cream, concentrated or sweetened",3093.36,1.4426931801295695,Republic Day,Major Rainy Season,0,0
+2022-08-01,Eastern,402,"Milk and cream, concentrated or sweetened",2190.54,1.2140437504315862,Founders' Day,Major Rainy Season,0,0
+2022-09-01,Eastern,402,"Milk and cream, concentrated or sweetened",2902.34,1.3974393287924975,Kwame Nkrumah Memorial Day,Minor Rainy Season,1,8
+2022-10-01,Eastern,402,"Milk and cream, concentrated or sweetened",717.66,0.6948948454930051,,Minor Rainy Season,0,0
+2022-11-01,Eastern,402,"Milk and cream, concentrated or sweetened",474.49,0.5650305446459908,,Minor Rainy Season,0,0
+2022-12-01,Eastern,402,"Milk and cream, concentrated or sweetened",299.34,0.44878703475867043,"[""Farmer's Day"", 'Christmas']",Harmattan (Dry),0,9
+2022-01-01,Ashanti,402,"Milk and cream, concentrated or sweetened",2566.24,0.8901254806302046,"[""New Year's Day"", 'Constitution Day']",Harmattan (Dry),1,0
+2022-02-01,Ashanti,402,"Milk and cream, concentrated or sweetened",5941.36,1.3543959893521065,Valentine's Day,Harmattan (Dry),0,1
+2022-03-01,Ashanti,402,"Milk and cream, concentrated or sweetened",1695.68,0.7235607732312193,"['Independence Day', 'Ramadan']",Hot/Dry Season,0,3
+2022-04-01,Ashanti,402,"Milk and cream, concentrated or sweetened",1882.08,0.7622917261607656,Easter,Major Rainy Season,0,1
+2022-05-01,Ashanti,402,"Milk and cream, concentrated or sweetened",4091.5,1.1239423138228877,May Day,Major Rainy Season,1,1
+2022-06-01,Ashanti,402,"Milk and cream, concentrated or sweetened",6193.13,1.382795032551498,Eid ul-Adha,Major Rainy Season,0,0
+2022-07-01,Ashanti,402,"Milk and cream, concentrated or sweetened",6741.29,1.4426931801295695,Republic Day,Major Rainy Season,0,0
+2022-08-01,Ashanti,402,"Milk and cream, concentrated or sweetened",4773.79,1.2140437504315862,Founders' Day,Major Rainy Season,0,0
+2022-09-01,Ashanti,402,"Milk and cream, concentrated or sweetened",6325.0,1.3974393287924975,Kwame Nkrumah Memorial Day,Minor Rainy Season,1,8
+2022-10-01,Ashanti,402,"Milk and cream, concentrated or sweetened",1563.99,0.6948948454930051,,Minor Rainy Season,0,0
+2022-11-01,Ashanti,402,"Milk and cream, concentrated or sweetened",1034.04,0.5650305446459908,,Minor Rainy Season,0,0
+2022-12-01,Ashanti,402,"Milk and cream, concentrated or sweetened",652.34,0.44878703475867043,"[""Farmer's Day"", 'Christmas']",Harmattan (Dry),0,9
+2022-01-01,Brong Ahafo,402,"Milk and cream, concentrated or sweetened",1136.32,0.8901254806302046,"[""New Year's Day"", 'Constitution Day']",Harmattan (Dry),1,0
+2022-02-01,Brong Ahafo,402,"Milk and cream, concentrated or sweetened",2630.8,1.3543959893521065,Valentine's Day,Harmattan (Dry),0,1
+2022-03-01,Brong Ahafo,402,"Milk and cream, concentrated or sweetened",750.84,0.7235607732312193,"['Independence Day', 'Ramadan']",Hot/Dry Season,0,3
+2022-04-01,Brong Ahafo,402,"Milk and cream, concentrated or sweetened",833.37,0.7622917261607656,Easter,Major Rainy Season,0,1
+2022-05-01,Brong Ahafo,402,"Milk and cream, concentrated or sweetened",1811.7,1.1239423138228877,May Day,Major Rainy Season,1,1
+2022-06-01,Brong Ahafo,402,"Milk and cream, concentrated or sweetened",2742.29,1.382795032551498,Eid ul-Adha,Major Rainy Season,0,0
+2022-07-01,Brong Ahafo,402,"Milk and cream, concentrated or sweetened",2985.01,1.4426931801295695,Republic Day,Major Rainy Season,0,0
+2022-08-01,Brong Ahafo,402,"Milk and cream, concentrated or sweetened",2113.81,1.2140437504315862,Founders' Day,Major Rainy Season,0,0
+2022-09-01,Brong Ahafo,402,"Milk and cream, concentrated or sweetened",2800.68,1.3974393287924975,Kwame Nkrumah Memorial Day,Minor Rainy Season,1,8
+2022-10-01,Brong Ahafo,402,"Milk and cream, concentrated or sweetened",692.53,0.6948948454930051,,Minor Rainy Season,0,0
+2022-11-01,Brong Ahafo,402,"Milk and cream, concentrated or sweetened",457.87,0.5650305446459908,,Minor Rainy Season,0,0
+2022-12-01,Brong Ahafo,402,"Milk and cream, concentrated or sweetened",288.85,0.44878703475867043,"[""Farmer's Day"", 'Christmas']",Harmattan (Dry),0,9
+2022-01-01,Northern,402,"Milk and cream, concentrated or sweetened",1173.54,0.8901254806302046,"[""New Year's Day"", 'Constitution Day']",Harmattan (Dry),1,0
+2022-02-01,Northern,402,"Milk and cream, concentrated or sweetened",2716.98,1.3543959893521065,Valentine's Day,Harmattan (Dry),0,1
+2022-03-01,Northern,402,"Milk and cream, concentrated or sweetened",775.43,0.7235607732312193,"['Independence Day', 'Ramadan']",Hot/Dry Season,0,3
+2022-04-01,Northern,402,"Milk and cream, concentrated or sweetened",860.67,0.7622917261607656,Easter,Major Rainy Season,0,1
+2022-05-01,Northern,402,"Milk and cream, concentrated or sweetened",1871.04,1.1239423138228877,May Day,Major Rainy Season,1,1
+2022-06-01,Northern,402,"Milk and cream, concentrated or sweetened",2832.11,1.382795032551498,Eid ul-Adha,Major Rainy Season,0,0
+2022-07-01,Northern,402,"Milk and cream, concentrated or sweetened",3082.78,1.4426931801295695,Republic Day,Major Rainy Season,0,0
+2022-08-01,Northern,402,"Milk and cream, concentrated or sweetened",2183.05,1.2140437504315862,Founders' Day,Major Rainy Season,0,0
+2022-09-01,Northern,402,"Milk and cream, concentrated or sweetened",2892.41,1.3974393287924975,Kwame Nkrumah Memorial Day,Minor Rainy Season,1,8
+2022-10-01,Northern,402,"Milk and cream, concentrated or sweetened",715.21,0.6948948454930051,,Minor Rainy Season,0,0
+2022-11-01,Northern,402,"Milk and cream, concentrated or sweetened",472.87,0.5650305446459908,,Minor Rainy Season,0,0
+2022-12-01,Northern,402,"Milk and cream, concentrated or sweetened",298.31,0.44878703475867043,"[""Farmer's Day"", 'Christmas']",Harmattan (Dry),0,9
+2022-01-01,Upper East,402,"Milk and cream, concentrated or sweetened",334.73,0.8901254806302046,"[""New Year's Day"", 'Constitution Day']",Harmattan (Dry),1,0
+2022-02-01,Upper East,402,"Milk and cream, concentrated or sweetened",774.96,1.3543959893521065,Valentine's Day,Harmattan (Dry),0,1
+2022-03-01,Upper East,402,"Milk and cream, concentrated or sweetened",221.18,0.7235607732312193,"['Independence Day', 'Ramadan']",Hot/Dry Season,0,3
+2022-04-01,Upper East,402,"Milk and cream, concentrated or sweetened",245.49,0.7622917261607656,Easter,Major Rainy Season,0,1
+2022-05-01,Upper East,402,"Milk and cream, concentrated or sweetened",533.67,1.1239423138228877,May Day,Major Rainy Season,1,1
+2022-06-01,Upper East,402,"Milk and cream, concentrated or sweetened",807.8,1.382795032551498,Eid ul-Adha,Major Rainy Season,0,0
+2022-07-01,Upper East,402,"Milk and cream, concentrated or sweetened",879.3,1.4426931801295695,Republic Day,Major Rainy Season,0,0
+2022-08-01,Upper East,402,"Milk and cream, concentrated or sweetened",622.67,1.2140437504315862,Founders' Day,Major Rainy Season,0,0
+2022-09-01,Upper East,402,"Milk and cream, concentrated or sweetened",825.0,1.3974393287924975,Kwame Nkrumah Memorial Day,Minor Rainy Season,1,8
+2022-10-01,Upper East,402,"Milk and cream, concentrated or sweetened",204.0,0.6948948454930051,,Minor Rainy Season,0,0
+2022-11-01,Upper East,402,"Milk and cream, concentrated or sweetened",134.87,0.5650305446459908,,Minor Rainy Season,0,0
+2022-12-01,Upper East,402,"Milk and cream, concentrated or sweetened",85.09,0.44878703475867043,"[""Farmer's Day"", 'Christmas']",Harmattan (Dry),0,9
+2022-01-01,Upper West,402,"Milk and cream, concentrated or sweetened",233.67,0.8901254806302046,"[""New Year's Day"", 'Constitution Day']",Harmattan (Dry),1,0
+2022-02-01,Upper West,402,"Milk and cream, concentrated or sweetened",540.98,1.3543959893521065,Valentine's Day,Harmattan (Dry),0,1
+2022-03-01,Upper West,402,"Milk and cream, concentrated or sweetened",154.4,0.7235607732312193,"['Independence Day', 'Ramadan']",Hot/Dry Season,0,3
+2022-04-01,Upper West,402,"Milk and cream, concentrated or sweetened",171.37,0.7622917261607656,Easter,Major Rainy Season,0,1
+2022-05-01,Upper West,402,"Milk and cream, concentrated or sweetened",372.55,1.1239423138228877,May Day,Major Rainy Season,1,1
+2022-06-01,Upper West,402,"Milk and cream, concentrated or sweetened",563.91,1.382795032551498,Eid ul-Adha,Major Rainy Season,0,0
+2022-07-01,Upper West,402,"Milk and cream, concentrated or sweetened",613.82,1.4426931801295695,Republic Day,Major Rainy Season,0,0
+2022-08-01,Upper West,402,"Milk and cream, concentrated or sweetened",434.67,1.2140437504315862,Founders' Day,Major Rainy Season,0,0
+2022-09-01,Upper West,402,"Milk and cream, concentrated or sweetened",575.92,1.3974393287924975,Kwame Nkrumah Memorial Day,Minor Rainy Season,1,8
+2022-10-01,Upper West,402,"Milk and cream, concentrated or sweetened",142.41,0.6948948454930051,,Minor Rainy Season,0,0
+2022-11-01,Upper West,402,"Milk and cream, concentrated or sweetened",94.15,0.5650305446459908,,Minor Rainy Season,0,0
+2022-12-01,Upper West,402,"Milk and cream, concentrated or sweetened",59.4,0.44878703475867043,"[""Farmer's Day"", 'Christmas']",Harmattan (Dry),0,9
+2022-01-01,Western,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",0.04,0.04651274450536599,"[""New Year's Day"", 'Constitution Day']",Harmattan (Dry),1,0
+2022-02-01,Western,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",59.61,1.7692394204262742,Valentine's Day,Harmattan (Dry),0,1
+2022-03-01,Western,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",107.23,2.3729475034909893,"['Independence Day', 'Ramadan']",Hot/Dry Season,0,3
+2022-04-01,Western,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",0.12,0.07813174146561266,Easter,Major Rainy Season,0,1
+2022-05-01,Western,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",31.16,1.2791199905510324,May Day,Major Rainy Season,1,1
+2022-06-01,Western,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",0.0,0.004292330214988793,Eid ul-Adha,Major Rainy Season,0,0
+2022-07-01,Western,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",80.79,2.0597930853289683,Republic Day,Major Rainy Season,0,0
+2022-08-01,Western,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",3.63,0.4368365511057823,Founders' Day,Major Rainy Season,0,0
+2022-09-01,Western,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",0.0,0.003586955468886624,Kwame Nkrumah Memorial Day,Minor Rainy Season,1,8
+2022-10-01,Western,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",46.98,1.570720959085234,,Minor Rainy Season,0,0
+2022-11-01,Western,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",18.39,0.9827397305737704,,Minor Rainy Season,0,0
+2022-12-01,Western,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",37.12,1.3960789877830946,"[""Farmer's Day"", 'Christmas']",Harmattan (Dry),0,9
+2022-01-01,Central,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",0.02,0.04651274450536599,"[""New Year's Day"", 'Constitution Day']",Harmattan (Dry),1,0
+2022-02-01,Central,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",26.84,1.7692394204262742,Valentine's Day,Harmattan (Dry),0,1
+2022-03-01,Central,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",48.28,2.3729475034909893,"['Independence Day', 'Ramadan']",Hot/Dry Season,0,3
+2022-04-01,Central,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",0.05,0.07813174146561266,Easter,Major Rainy Season,0,1
+2022-05-01,Central,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",14.03,1.2791199905510324,May Day,Major Rainy Season,1,1
+2022-06-01,Central,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",0.0,0.004292330214988793,Eid ul-Adha,Major Rainy Season,0,0
+2022-07-01,Central,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",36.38,2.0597930853289683,Republic Day,Major Rainy Season,0,0
+2022-08-01,Central,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",1.64,0.4368365511057823,Founders' Day,Major Rainy Season,0,0
+2022-09-01,Central,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",0.0,0.003586955468886624,Kwame Nkrumah Memorial Day,Minor Rainy Season,1,8
+2022-10-01,Central,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",21.15,1.570720959085234,,Minor Rainy Season,0,0
+2022-11-01,Central,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",8.28,0.9827397305737704,,Minor Rainy Season,0,0
+2022-12-01,Central,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",16.71,1.3960789877830946,"[""Farmer's Day"", 'Christmas']",Harmattan (Dry),0,9
+2022-01-01,Greater Accra,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",0.03,0.04651274450536599,"[""New Year's Day"", 'Constitution Day']",Harmattan (Dry),1,0
+2022-02-01,Greater Accra,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",50.57,1.7692394204262742,Valentine's Day,Harmattan (Dry),0,1
+2022-03-01,Greater Accra,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",90.97,2.3729475034909893,"['Independence Day', 'Ramadan']",Hot/Dry Season,0,3
+2022-04-01,Greater Accra,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",0.1,0.07813174146561266,Easter,Major Rainy Season,0,1
+2022-05-01,Greater Accra,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",26.43,1.2791199905510324,May Day,Major Rainy Season,1,1
+2022-06-01,Greater Accra,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",0.0,0.004292330214988793,Eid ul-Adha,Major Rainy Season,0,0
+2022-07-01,Greater Accra,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",68.54,2.0597930853289683,Republic Day,Major Rainy Season,0,0
+2022-08-01,Greater Accra,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",3.08,0.4368365511057823,Founders' Day,Major Rainy Season,0,0
+2022-09-01,Greater Accra,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",0.0,0.003586955468886624,Kwame Nkrumah Memorial Day,Minor Rainy Season,1,8
+2022-10-01,Greater Accra,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",39.86,1.570720959085234,,Minor Rainy Season,0,0
+2022-11-01,Greater Accra,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",15.6,0.9827397305737704,,Minor Rainy Season,0,0
+2022-12-01,Greater Accra,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",31.49,1.3960789877830946,"[""Farmer's Day"", 'Christmas']",Harmattan (Dry),0,9
+2022-01-01,Volta,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",0.04,0.04651274450536599,"[""New Year's Day"", 'Constitution Day']",Harmattan (Dry),1,0
+2022-02-01,Volta,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",51.61,1.7692394204262742,Valentine's Day,Harmattan (Dry),0,1
+2022-03-01,Volta,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",92.84,2.3729475034909893,"['Independence Day', 'Ramadan']",Hot/Dry Season,0,3
+2022-04-01,Volta,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",0.1,0.07813174146561266,Easter,Major Rainy Season,0,1
+2022-05-01,Volta,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",26.98,1.2791199905510324,May Day,Major Rainy Season,1,1
+2022-06-01,Volta,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",0.0,0.004292330214988793,Eid ul-Adha,Major Rainy Season,0,0
+2022-07-01,Volta,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",69.96,2.0597930853289683,Republic Day,Major Rainy Season,0,0
+2022-08-01,Volta,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",3.15,0.4368365511057823,Founders' Day,Major Rainy Season,0,0
+2022-09-01,Volta,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",0.0,0.003586955468886624,Kwame Nkrumah Memorial Day,Minor Rainy Season,1,8
+2022-10-01,Volta,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",40.68,1.570720959085234,,Minor Rainy Season,0,0
+2022-11-01,Volta,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",15.92,0.9827397305737704,,Minor Rainy Season,0,0
+2022-12-01,Volta,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",32.14,1.3960789877830946,"[""Farmer's Day"", 'Christmas']",Harmattan (Dry),0,9
+2022-01-01,Eastern,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",0.04,0.04651274450536599,"[""New Year's Day"", 'Constitution Day']",Harmattan (Dry),1,0
+2022-02-01,Eastern,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",59.04,1.7692394204262742,Valentine's Day,Harmattan (Dry),0,1
+2022-03-01,Eastern,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",106.2,2.3729475034909893,"['Independence Day', 'Ramadan']",Hot/Dry Season,0,3
+2022-04-01,Eastern,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",0.12,0.07813174146561266,Easter,Major Rainy Season,0,1
+2022-05-01,Eastern,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",30.86,1.2791199905510324,May Day,Major Rainy Season,1,1
+2022-06-01,Eastern,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",0.0,0.004292330214988793,Eid ul-Adha,Major Rainy Season,0,0
+2022-07-01,Eastern,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",80.02,2.0597930853289683,Republic Day,Major Rainy Season,0,0
+2022-08-01,Eastern,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",3.6,0.4368365511057823,Founders' Day,Major Rainy Season,0,0
+2022-09-01,Eastern,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",0.0,0.003586955468886624,Kwame Nkrumah Memorial Day,Minor Rainy Season,1,8
+2022-10-01,Eastern,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",46.53,1.570720959085234,,Minor Rainy Season,0,0
+2022-11-01,Eastern,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",18.21,0.9827397305737704,,Minor Rainy Season,0,0
+2022-12-01,Eastern,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",36.76,1.3960789877830946,"[""Farmer's Day"", 'Christmas']",Harmattan (Dry),0,9
+2022-01-01,Ashanti,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",0.09,0.04651274450536599,"[""New Year's Day"", 'Constitution Day']",Harmattan (Dry),1,0
+2022-02-01,Ashanti,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",128.65,1.7692394204262742,Valentine's Day,Harmattan (Dry),0,1
+2022-03-01,Ashanti,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",231.43,2.3729475034909893,"['Independence Day', 'Ramadan']",Hot/Dry Season,0,3
+2022-04-01,Ashanti,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",0.25,0.07813174146561266,Easter,Major Rainy Season,0,1
+2022-05-01,Ashanti,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",67.25,1.2791199905510324,May Day,Major Rainy Season,1,1
+2022-06-01,Ashanti,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",0.0,0.004292330214988793,Eid ul-Adha,Major Rainy Season,0,0
+2022-07-01,Ashanti,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",174.38,2.0597930853289683,Republic Day,Major Rainy Season,0,0
+2022-08-01,Ashanti,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",7.84,0.4368365511057823,Founders' Day,Major Rainy Season,0,0
+2022-09-01,Ashanti,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",0.0,0.003586955468886624,Kwame Nkrumah Memorial Day,Minor Rainy Season,1,8
+2022-10-01,Ashanti,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",101.4,1.570720959085234,,Minor Rainy Season,0,0
+2022-11-01,Ashanti,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",39.69,0.9827397305737704,,Minor Rainy Season,0,0
+2022-12-01,Ashanti,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",80.11,1.3960789877830946,"[""Farmer's Day"", 'Christmas']",Harmattan (Dry),0,9
+2022-01-01,Brong Ahafo,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",0.04,0.04651274450536599,"[""New Year's Day"", 'Constitution Day']",Harmattan (Dry),1,0
+2022-02-01,Brong Ahafo,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",56.97,1.7692394204262742,Valentine's Day,Harmattan (Dry),0,1
+2022-03-01,Brong Ahafo,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",102.48,2.3729475034909893,"['Independence Day', 'Ramadan']",Hot/Dry Season,0,3
+2022-04-01,Brong Ahafo,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",0.11,0.07813174146561266,Easter,Major Rainy Season,0,1
+2022-05-01,Brong Ahafo,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",29.78,1.2791199905510324,May Day,Major Rainy Season,1,1
+2022-06-01,Brong Ahafo,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",0.0,0.004292330214988793,Eid ul-Adha,Major Rainy Season,0,0
+2022-07-01,Brong Ahafo,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",77.21,2.0597930853289683,Republic Day,Major Rainy Season,0,0
+2022-08-01,Brong Ahafo,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",3.47,0.4368365511057823,Founders' Day,Major Rainy Season,0,0
+2022-09-01,Brong Ahafo,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",0.0,0.003586955468886624,Kwame Nkrumah Memorial Day,Minor Rainy Season,1,8
+2022-10-01,Brong Ahafo,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",44.9,1.570720959085234,,Minor Rainy Season,0,0
+2022-11-01,Brong Ahafo,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",17.58,0.9827397305737704,,Minor Rainy Season,0,0
+2022-12-01,Brong Ahafo,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",35.47,1.3960789877830946,"[""Farmer's Day"", 'Christmas']",Harmattan (Dry),0,9
+2022-01-01,Northern,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",0.04,0.04651274450536599,"[""New Year's Day"", 'Constitution Day']",Harmattan (Dry),1,0
+2022-02-01,Northern,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",58.83,1.7692394204262742,Valentine's Day,Harmattan (Dry),0,1
+2022-03-01,Northern,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",105.83,2.3729475034909893,"['Independence Day', 'Ramadan']",Hot/Dry Season,0,3
+2022-04-01,Northern,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",0.11,0.07813174146561266,Easter,Major Rainy Season,0,1
+2022-05-01,Northern,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",30.75,1.2791199905510324,May Day,Major Rainy Season,1,1
+2022-06-01,Northern,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",0.0,0.004292330214988793,Eid ul-Adha,Major Rainy Season,0,0
+2022-07-01,Northern,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",79.74,2.0597930853289683,Republic Day,Major Rainy Season,0,0
+2022-08-01,Northern,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",3.59,0.4368365511057823,Founders' Day,Major Rainy Season,0,0
+2022-09-01,Northern,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",0.0,0.003586955468886624,Kwame Nkrumah Memorial Day,Minor Rainy Season,1,8
+2022-10-01,Northern,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",46.37,1.570720959085234,,Minor Rainy Season,0,0
+2022-11-01,Northern,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",18.15,0.9827397305737704,,Minor Rainy Season,0,0
+2022-12-01,Northern,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",36.63,1.3960789877830946,"[""Farmer's Day"", 'Christmas']",Harmattan (Dry),0,9
+2022-01-01,Upper East,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",0.01,0.04651274450536599,"[""New Year's Day"", 'Constitution Day']",Harmattan (Dry),1,0
+2022-02-01,Upper East,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",16.78,1.7692394204262742,Valentine's Day,Harmattan (Dry),0,1
+2022-03-01,Upper East,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",30.19,2.3729475034909893,"['Independence Day', 'Ramadan']",Hot/Dry Season,0,3
+2022-04-01,Upper East,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",0.03,0.07813174146561266,Easter,Major Rainy Season,0,1
+2022-05-01,Upper East,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",8.77,1.2791199905510324,May Day,Major Rainy Season,1,1
+2022-06-01,Upper East,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",0.0,0.004292330214988793,Eid ul-Adha,Major Rainy Season,0,0
+2022-07-01,Upper East,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",22.75,2.0597930853289683,Republic Day,Major Rainy Season,0,0
+2022-08-01,Upper East,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",1.02,0.4368365511057823,Founders' Day,Major Rainy Season,0,0
+2022-09-01,Upper East,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",0.0,0.003586955468886624,Kwame Nkrumah Memorial Day,Minor Rainy Season,1,8
+2022-10-01,Upper East,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",13.23,1.570720959085234,,Minor Rainy Season,0,0
+2022-11-01,Upper East,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",5.18,0.9827397305737704,,Minor Rainy Season,0,0
+2022-12-01,Upper East,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",10.45,1.3960789877830946,"[""Farmer's Day"", 'Christmas']",Harmattan (Dry),0,9
+2022-01-01,Upper West,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",0.01,0.04651274450536599,"[""New Year's Day"", 'Constitution Day']",Harmattan (Dry),1,0
+2022-02-01,Upper West,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",11.71,1.7692394204262742,Valentine's Day,Harmattan (Dry),0,1
+2022-03-01,Upper West,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",21.07,2.3729475034909893,"['Independence Day', 'Ramadan']",Hot/Dry Season,0,3
+2022-04-01,Upper West,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",0.02,0.07813174146561266,Easter,Major Rainy Season,0,1
+2022-05-01,Upper West,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",6.12,1.2791199905510324,May Day,Major Rainy Season,1,1
+2022-06-01,Upper West,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",0.0,0.004292330214988793,Eid ul-Adha,Major Rainy Season,0,0
+2022-07-01,Upper West,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",15.88,2.0597930853289683,Republic Day,Major Rainy Season,0,0
+2022-08-01,Upper West,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",0.71,0.4368365511057823,Founders' Day,Major Rainy Season,0,0
+2022-09-01,Upper West,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",0.0,0.003586955468886624,Kwame Nkrumah Memorial Day,Minor Rainy Season,1,8
+2022-10-01,Upper West,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",9.23,1.570720959085234,,Minor Rainy Season,0,0
+2022-11-01,Upper West,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",3.61,0.9827397305737704,,Minor Rainy Season,0,0
+2022-12-01,Upper West,1516,"Animal or vegetable fats and oils and fractions, hydrogenated, etc",7.29,1.3960789877830946,"[""Farmer's Day"", 'Christmas']",Harmattan (Dry),0,9
+2022-01-01,Western,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",6.88,1.1018147735815127,"[""New Year's Day"", 'Constitution Day']",Harmattan (Dry),1,0
+2022-02-01,Western,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",9.81,1.3154516093699207,Valentine's Day,Harmattan (Dry),0,1
+2022-03-01,Western,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",7.27,1.1329319548413384,"['Independence Day', 'Ramadan']",Hot/Dry Season,0,3
+2022-04-01,Western,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",5.49,0.9839810316948548,Easter,Major Rainy Season,0,1
+2022-05-01,Western,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",6.57,1.0767963032444343,May Day,Major Rainy Season,1,1
+2022-06-01,Western,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",4.83,0.9226987979019105,Eid ul-Adha,Major Rainy Season,0,0
+2022-07-01,Western,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",3.3,0.7625618409084366,Republic Day,Major Rainy Season,0,0
+2022-08-01,Western,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",4.06,0.8458901792006845,Founders' Day,Major Rainy Season,0,0
+2022-09-01,Western,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",2.89,0.7137916741183475,Kwame Nkrumah Memorial Day,Minor Rainy Season,1,8
+2022-10-01,Western,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",7.24,1.1299113966704732,,Minor Rainy Season,0,0
+2022-11-01,Western,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",6.93,1.1057633085128482,,Minor Rainy Season,0,0
+2022-12-01,Western,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",4.68,0.9084071299552415,"[""Farmer's Day"", 'Christmas']",Harmattan (Dry),0,9
+2022-01-01,Central,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",3.1,1.1018147735815127,"[""New Year's Day"", 'Constitution Day']",Harmattan (Dry),1,0
+2022-02-01,Central,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",4.42,1.3154516093699207,Valentine's Day,Harmattan (Dry),0,1
+2022-03-01,Central,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",3.28,1.1329319548413384,"['Independence Day', 'Ramadan']",Hot/Dry Season,0,3
+2022-04-01,Central,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",2.47,0.9839810316948548,Easter,Major Rainy Season,0,1
+2022-05-01,Central,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",2.96,1.0767963032444343,May Day,Major Rainy Season,1,1
+2022-06-01,Central,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",2.17,0.9226987979019105,Eid ul-Adha,Major Rainy Season,0,0
+2022-07-01,Central,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",1.48,0.7625618409084366,Republic Day,Major Rainy Season,0,0
+2022-08-01,Central,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",1.83,0.8458901792006845,Founders' Day,Major Rainy Season,0,0
+2022-09-01,Central,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",1.3,0.7137916741183475,Kwame Nkrumah Memorial Day,Minor Rainy Season,1,8
+2022-10-01,Central,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",3.26,1.1299113966704732,,Minor Rainy Season,0,0
+2022-11-01,Central,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",3.12,1.1057633085128482,,Minor Rainy Season,0,0
+2022-12-01,Central,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",2.11,0.9084071299552415,"[""Farmer's Day"", 'Christmas']",Harmattan (Dry),0,9
+2022-01-01,Greater Accra,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",5.84,1.1018147735815127,"[""New Year's Day"", 'Constitution Day']",Harmattan (Dry),1,0
+2022-02-01,Greater Accra,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",8.32,1.3154516093699207,Valentine's Day,Harmattan (Dry),0,1
+2022-03-01,Greater Accra,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",6.17,1.1329319548413384,"['Independence Day', 'Ramadan']",Hot/Dry Season,0,3
+2022-04-01,Greater Accra,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",4.66,0.9839810316948548,Easter,Major Rainy Season,0,1
+2022-05-01,Greater Accra,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",5.57,1.0767963032444343,May Day,Major Rainy Season,1,1
+2022-06-01,Greater Accra,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",4.09,0.9226987979019105,Eid ul-Adha,Major Rainy Season,0,0
+2022-07-01,Greater Accra,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",2.8,0.7625618409084366,Republic Day,Major Rainy Season,0,0
+2022-08-01,Greater Accra,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",3.44,0.8458901792006845,Founders' Day,Major Rainy Season,0,0
+2022-09-01,Greater Accra,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",2.45,0.7137916741183475,Kwame Nkrumah Memorial Day,Minor Rainy Season,1,8
+2022-10-01,Greater Accra,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",6.14,1.1299113966704732,,Minor Rainy Season,0,0
+2022-11-01,Greater Accra,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",5.88,1.1057633085128482,,Minor Rainy Season,0,0
+2022-12-01,Greater Accra,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",3.97,0.9084071299552415,"[""Farmer's Day"", 'Christmas']",Harmattan (Dry),0,9
+2022-01-01,Volta,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",5.96,1.1018147735815127,"[""New Year's Day"", 'Constitution Day']",Harmattan (Dry),1,0
+2022-02-01,Volta,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",8.49,1.3154516093699207,Valentine's Day,Harmattan (Dry),0,1
+2022-03-01,Volta,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",6.3,1.1329319548413384,"['Independence Day', 'Ramadan']",Hot/Dry Season,0,3
+2022-04-01,Volta,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",4.75,0.9839810316948548,Easter,Major Rainy Season,0,1
+2022-05-01,Volta,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",5.69,1.0767963032444343,May Day,Major Rainy Season,1,1
+2022-06-01,Volta,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",4.18,0.9226987979019105,Eid ul-Adha,Major Rainy Season,0,0
+2022-07-01,Volta,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",2.85,0.7625618409084366,Republic Day,Major Rainy Season,0,0
+2022-08-01,Volta,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",3.51,0.8458901792006845,Founders' Day,Major Rainy Season,0,0
+2022-09-01,Volta,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",2.5,0.7137916741183475,Kwame Nkrumah Memorial Day,Minor Rainy Season,1,8
+2022-10-01,Volta,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",6.26,1.1299113966704732,,Minor Rainy Season,0,0
+2022-11-01,Volta,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",6.0,1.1057633085128482,,Minor Rainy Season,0,0
+2022-12-01,Volta,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",4.05,0.9084071299552415,"[""Farmer's Day"", 'Christmas']",Harmattan (Dry),0,9
+2022-01-01,Eastern,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",6.81,1.1018147735815127,"[""New Year's Day"", 'Constitution Day']",Harmattan (Dry),1,0
+2022-02-01,Eastern,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",9.71,1.3154516093699207,Valentine's Day,Harmattan (Dry),0,1
+2022-03-01,Eastern,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",7.2,1.1329319548413384,"['Independence Day', 'Ramadan']",Hot/Dry Season,0,3
+2022-04-01,Eastern,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",5.43,0.9839810316948548,Easter,Major Rainy Season,0,1
+2022-05-01,Eastern,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",6.51,1.0767963032444343,May Day,Major Rainy Season,1,1
+2022-06-01,Eastern,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",4.78,0.9226987979019105,Eid ul-Adha,Major Rainy Season,0,0
+2022-07-01,Eastern,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",3.26,0.7625618409084366,Republic Day,Major Rainy Season,0,0
+2022-08-01,Eastern,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",4.02,0.8458901792006845,Founders' Day,Major Rainy Season,0,0
+2022-09-01,Eastern,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",2.86,0.7137916741183475,Kwame Nkrumah Memorial Day,Minor Rainy Season,1,8
+2022-10-01,Eastern,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",7.17,1.1299113966704732,,Minor Rainy Season,0,0
+2022-11-01,Eastern,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",6.86,1.1057633085128482,,Minor Rainy Season,0,0
+2022-12-01,Eastern,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",4.63,0.9084071299552415,"[""Farmer's Day"", 'Christmas']",Harmattan (Dry),0,9
+2022-01-01,Ashanti,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",14.85,1.1018147735815127,"[""New Year's Day"", 'Constitution Day']",Harmattan (Dry),1,0
+2022-02-01,Ashanti,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",21.17,1.3154516093699207,Valentine's Day,Harmattan (Dry),0,1
+2022-03-01,Ashanti,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",15.7,1.1329319548413384,"['Independence Day', 'Ramadan']",Hot/Dry Season,0,3
+2022-04-01,Ashanti,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",11.84,0.9839810316948548,Easter,Major Rainy Season,0,1
+2022-05-01,Ashanti,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",14.18,1.0767963032444343,May Day,Major Rainy Season,1,1
+2022-06-01,Ashanti,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",10.41,0.9226987979019105,Eid ul-Adha,Major Rainy Season,0,0
+2022-07-01,Ashanti,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",7.11,0.7625618409084366,Republic Day,Major Rainy Season,0,0
+2022-08-01,Ashanti,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",8.75,0.8458901792006845,Founders' Day,Major Rainy Season,0,0
+2022-09-01,Ashanti,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",6.23,0.7137916741183475,Kwame Nkrumah Memorial Day,Minor Rainy Season,1,8
+2022-10-01,Ashanti,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",15.62,1.1299113966704732,,Minor Rainy Season,0,0
+2022-11-01,Ashanti,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",14.96,1.1057633085128482,,Minor Rainy Season,0,0
+2022-12-01,Ashanti,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",10.09,0.9084071299552415,"[""Farmer's Day"", 'Christmas']",Harmattan (Dry),0,9
+2022-01-01,Brong Ahafo,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",6.58,1.1018147735815127,"[""New Year's Day"", 'Constitution Day']",Harmattan (Dry),1,0
+2022-02-01,Brong Ahafo,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",9.37,1.3154516093699207,Valentine's Day,Harmattan (Dry),0,1
+2022-03-01,Brong Ahafo,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",6.95,1.1329319548413384,"['Independence Day', 'Ramadan']",Hot/Dry Season,0,3
+2022-04-01,Brong Ahafo,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",5.24,0.9839810316948548,Easter,Major Rainy Season,0,1
+2022-05-01,Brong Ahafo,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",6.28,1.0767963032444343,May Day,Major Rainy Season,1,1
+2022-06-01,Brong Ahafo,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",4.61,0.9226987979019105,Eid ul-Adha,Major Rainy Season,0,0
+2022-07-01,Brong Ahafo,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",3.15,0.7625618409084366,Republic Day,Major Rainy Season,0,0
+2022-08-01,Brong Ahafo,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",3.88,0.8458901792006845,Founders' Day,Major Rainy Season,0,0
+2022-09-01,Brong Ahafo,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",2.76,0.7137916741183475,Kwame Nkrumah Memorial Day,Minor Rainy Season,1,8
+2022-10-01,Brong Ahafo,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",6.91,1.1299113966704732,,Minor Rainy Season,0,0
+2022-11-01,Brong Ahafo,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",6.62,1.1057633085128482,,Minor Rainy Season,0,0
+2022-12-01,Brong Ahafo,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",4.47,0.9084071299552415,"[""Farmer's Day"", 'Christmas']",Harmattan (Dry),0,9
+2022-01-01,Northern,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",6.79,1.1018147735815127,"[""New Year's Day"", 'Constitution Day']",Harmattan (Dry),1,0
+2022-02-01,Northern,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",9.68,1.3154516093699207,Valentine's Day,Harmattan (Dry),0,1
+2022-03-01,Northern,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",7.18,1.1329319548413384,"['Independence Day', 'Ramadan']",Hot/Dry Season,0,3
+2022-04-01,Northern,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",5.42,0.9839810316948548,Easter,Major Rainy Season,0,1
+2022-05-01,Northern,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",6.49,1.0767963032444343,May Day,Major Rainy Season,1,1
+2022-06-01,Northern,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",4.76,0.9226987979019105,Eid ul-Adha,Major Rainy Season,0,0
+2022-07-01,Northern,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",3.25,0.7625618409084366,Republic Day,Major Rainy Season,0,0
+2022-08-01,Northern,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",4.0,0.8458901792006845,Founders' Day,Major Rainy Season,0,0
+2022-09-01,Northern,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",2.85,0.7137916741183475,Kwame Nkrumah Memorial Day,Minor Rainy Season,1,8
+2022-10-01,Northern,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",7.14,1.1299113966704732,,Minor Rainy Season,0,0
+2022-11-01,Northern,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",6.84,1.1057633085128482,,Minor Rainy Season,0,0
+2022-12-01,Northern,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",4.62,0.9084071299552415,"[""Farmer's Day"", 'Christmas']",Harmattan (Dry),0,9
+2022-01-01,Upper East,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",1.94,1.1018147735815127,"[""New Year's Day"", 'Constitution Day']",Harmattan (Dry),1,0
+2022-02-01,Upper East,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",2.76,1.3154516093699207,Valentine's Day,Harmattan (Dry),0,1
+2022-03-01,Upper East,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",2.05,1.1329319548413384,"['Independence Day', 'Ramadan']",Hot/Dry Season,0,3
+2022-04-01,Upper East,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",1.54,0.9839810316948548,Easter,Major Rainy Season,0,1
+2022-05-01,Upper East,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",1.85,1.0767963032444343,May Day,Major Rainy Season,1,1
+2022-06-01,Upper East,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",1.36,0.9226987979019105,Eid ul-Adha,Major Rainy Season,0,0
+2022-07-01,Upper East,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",0.93,0.7625618409084366,Republic Day,Major Rainy Season,0,0
+2022-08-01,Upper East,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",1.14,0.8458901792006845,Founders' Day,Major Rainy Season,0,0
+2022-09-01,Upper East,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",0.81,0.7137916741183475,Kwame Nkrumah Memorial Day,Minor Rainy Season,1,8
+2022-10-01,Upper East,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",2.04,1.1299113966704732,,Minor Rainy Season,0,0
+2022-11-01,Upper East,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",1.95,1.1057633085128482,,Minor Rainy Season,0,0
+2022-12-01,Upper East,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",1.32,0.9084071299552415,"[""Farmer's Day"", 'Christmas']",Harmattan (Dry),0,9
+2022-01-01,Upper West,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",1.35,1.1018147735815127,"[""New Year's Day"", 'Constitution Day']",Harmattan (Dry),1,0
+2022-02-01,Upper West,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",1.93,1.3154516093699207,Valentine's Day,Harmattan (Dry),0,1
+2022-03-01,Upper West,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",1.43,1.1329319548413384,"['Independence Day', 'Ramadan']",Hot/Dry Season,0,3
+2022-04-01,Upper West,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",1.08,0.9839810316948548,Easter,Major Rainy Season,0,1
+2022-05-01,Upper West,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",1.29,1.0767963032444343,May Day,Major Rainy Season,1,1
+2022-06-01,Upper West,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",0.95,0.9226987979019105,Eid ul-Adha,Major Rainy Season,0,0
+2022-07-01,Upper West,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",0.65,0.7625618409084366,Republic Day,Major Rainy Season,0,0
+2022-08-01,Upper West,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",0.8,0.8458901792006845,Founders' Day,Major Rainy Season,0,0
+2022-09-01,Upper West,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",0.57,0.7137916741183475,Kwame Nkrumah Memorial Day,Minor Rainy Season,1,8
+2022-10-01,Upper West,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",1.42,1.1299113966704732,,Minor Rainy Season,0,0
+2022-11-01,Upper West,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",1.36,1.1057633085128482,,Minor Rainy Season,0,0
+2022-12-01,Upper West,3304,"Beauty, make-up, skin-care (incl. suntan), manicure... preparations",0.92,0.9084071299552415,"[""Farmer's Day"", 'Christmas']",Harmattan (Dry),0,9
